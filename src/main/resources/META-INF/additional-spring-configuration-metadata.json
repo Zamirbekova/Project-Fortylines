@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.show-sql.spring.security.user.name",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.show-sql.spring.security.user.name."
+    },
+    {
+      "name": "spring.jpa.show-sql.security.name.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.show-sql.security.name.password."
+    }
+  ] }
